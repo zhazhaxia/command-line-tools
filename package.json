@@ -1,0 +1,9 @@
+{
+    "name": "giting",
+    "version": "0.0.1",
+    "description": "init your git repositories",
+    "preferGlobal": "true",
+    "bin": { "giting": "bin/g-init.js" },
+    "author": "miluwu",
+    "engines": { "node": "*" }
+}
